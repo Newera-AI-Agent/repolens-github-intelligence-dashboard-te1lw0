@@ -1,3 +1,3 @@
 # VM Agent Result
 
-ABORTED: model kept replying outside the JSON protocol after 8 steps (handoff committed for resume).
+ABORTED: model proxy unreachable — The operation was aborted due to timeout (control plane: https://newera.namansoni.in)
